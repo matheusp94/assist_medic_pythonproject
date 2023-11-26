@@ -1,0 +1,398 @@
+2023-11-12 09:50:31,368 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 09:50:31,378 [INFO]: A tabela pesquisa já existe. Setup do banco de dados ignorado.
+2023-11-12 15:58:30,676 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 15:58:30,691 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-12 16:00:55,049 [INFO]: Registro criado com sucesso. CPF: 45963025028
+2023-11-12 16:26:56,186 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 16:26:56,187 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 16:27:32,639 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 16:27:32,639 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 16:53:44,638 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 16:53:44,639 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 16:58:18,887 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 16:58:18,888 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 16:59:36,661 [INFO]: Registro criado com sucesso. CPF: 06477669730
+2023-11-12 17:00:21,220 [INFO]: Registro excluído com sucesso. ID: 1
+2023-11-12 17:30:26,094 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 17:33:09,258 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 17:34:46,690 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 17:34:46,691 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:07:22,167 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:07:22,255 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:07:40,370 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:07:40,371 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:07:58,915 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:07:58,916 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:21:45,423 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:21:45,424 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:22:28,274 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:22:28,274 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:22:51,821 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:22:51,823 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:23:57,139 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:23:57,140 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:25:08,653 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:25:08,654 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:28:55,265 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:28:55,266 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:40:06,356 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:40:06,357 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 18:42:36,233 [INFO]: Registro criado com sucesso. CPF: 81607354217
+2023-11-12 18:47:32,400 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 18:47:32,401 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:17:16,307 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:17:16,309 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:28:51,454 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:28:51,455 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:34:33,970 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:34:33,971 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:35:34,835 [INFO]: Registro criado com sucesso. CPF: 53514134340
+2023-11-12 19:43:15,243 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:45:14,186 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:46:29,086 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:46:52,546 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:46:57,285 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:00,685 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:00,957 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:04,278 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:07,656 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:11,136 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:11,400 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:13,953 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:18,643 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:21,653 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:24,629 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:27,765 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:27,765 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:47:43,593 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:47:43,594 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:50:09,812 [INFO]: Registro criado com sucesso. CPF: 47424431447
+2023-11-12 19:54:21,496 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:54:21,496 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:55:07,525 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:55:07,526 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:56:10,602 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:56:10,602 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 19:59:32,302 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 19:59:32,303 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 20:00:02,396 [INFO]: Registro excluído com sucesso. ID: 4
+2023-11-12 20:00:45,211 [INFO]: Registro criado com sucesso. CPF: 76614144812
+2023-11-12 20:05:28,164 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 20:05:28,165 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 20:05:53,578 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 20:05:53,580 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 20:06:08,764 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 20:06:08,765 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 21:14:55,852 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 21:14:55,853 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 21:17:48,737 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 21:17:48,738 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-12 21:19:49,760 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-12 21:19:49,761 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 10:36:02,071 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 10:36:02,078 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 10:37:44,224 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 10:37:44,225 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 10:38:35,411 [INFO]: Registro excluído com sucesso. ID: 6
+2023-11-13 10:44:34,526 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 10:44:34,527 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 10:45:58,444 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-13 10:47:47,216 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 10:47:47,217 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 10:48:15,715 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-13 10:49:54,250 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 10:49:54,251 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 10:51:01,781 [INFO]: Registro criado com sucesso. CPF: 31215554486
+2023-11-13 10:52:10,524 [INFO]: Registro criado com sucesso. CPF: 26395085808
+2023-11-13 11:04:34,774 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:04:34,775 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:07:21,692 [INFO]: Registro criado com sucesso. CPF: 28722447431
+2023-11-13 11:11:47,419 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:11:47,420 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:12:45,507 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:12:45,508 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:13:42,962 [INFO]: Registro criado com sucesso. CPF: 84369372283
+2023-11-13 11:20:37,492 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:20:37,493 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:21:23,267 [INFO]: Registro criado com sucesso. CPF: 81587510162
+2023-11-13 11:24:03,228 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:24:03,229 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:24:43,162 [INFO]: Registro criado com sucesso. CPF: 87664775221
+2023-11-13 11:26:12,778 [INFO]: Registro criado com sucesso. CPF: 87664775221
+2023-11-13 11:29:31,257 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:29:31,258 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:32:53,308 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:32:53,309 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:33:16,892 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:33:16,893 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:38:18,762 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:38:18,762 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:39:14,593 [INFO]: Registro criado com sucesso. CPF: 53418137822
+2023-11-13 11:43:05,642 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:43:05,643 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:45:42,518 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:45:42,519 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:48:30,112 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:48:30,113 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:52:03,160 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:52:03,161 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:52:26,930 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:52:26,930 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:54:06,462 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:54:06,463 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:57:38,411 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 11:57:38,412 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 11:58:24,144 [INFO]: Registro criado com sucesso. CPF: 04764621002
+2023-11-13 12:01:43,945 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 12:01:43,946 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 12:02:31,727 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-13 12:02:59,245 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 12:02:59,246 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-13 12:03:20,070 [INFO]: Registro excluído com sucesso. ID: 11
+2023-11-13 12:04:09,824 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-13 12:04:09,835 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-20 10:24:39,897 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-20 10:24:39,916 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-20 16:26:48,432 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-20 16:26:48,439 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-20 18:22:19,925 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-20 18:22:19,936 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-20 18:23:19,662 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-20 19:50:30,844 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-20 19:50:30,854 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-20 19:50:52,316 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-20 19:50:52,321 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-20 19:51:40,124 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-20 19:52:06,794 [INFO]: Registro excluído com sucesso. ID: 1
+2023-11-21 08:36:53,328 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:36:53,336 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 08:37:31,007 [ERROR]: Erro ao criar registro: table cadastro has no column named pressao_arterial
+2023-11-21 08:38:46,306 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:38:46,316 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 08:39:21,495 [ERROR]: Erro ao criar registro: table cadastro has no column named pressao_arterial
+2023-11-21 08:39:51,906 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:39:51,938 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 08:40:21,447 [ERROR]: Erro ao criar registro: 7 values for 8 columns
+2023-11-21 08:41:18,000 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:41:18,001 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 08:41:28,191 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:41:28,195 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 08:41:47,692 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 08:43:44,572 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:43:44,572 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 08:50:49,882 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:50:49,888 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 08:51:10,925 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 08:52:08,997 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 08:58:30,952 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 08:58:30,953 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 08:59:16,572 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 09:20:30,315 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 09:20:30,320 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 09:23:34,083 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 09:23:34,083 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 09:24:40,114 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 09:28:20,464 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 09:28:20,465 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 09:29:22,619 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 09:44:24,483 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 09:44:24,483 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 09:44:34,836 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 09:44:34,845 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 09:45:12,044 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 09:48:14,198 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 09:48:14,203 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 09:49:09,738 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 10:00:49,847 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:00:49,851 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 10:01:31,644 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 10:05:44,222 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:05:44,229 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 10:06:20,803 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 10:08:12,079 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:08:12,079 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 10:08:38,218 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:08:38,218 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 10:13:49,545 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:13:49,550 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 10:18:27,816 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:18:27,820 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 10:19:17,013 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 10:26:09,425 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:26:09,431 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 10:26:37,258 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:26:37,259 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 10:31:00,974 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:31:00,979 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 10:34:18,351 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:34:18,355 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 10:34:53,831 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 10:54:35,232 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:54:35,233 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 10:55:22,030 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 10:56:32,938 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 10:56:32,939 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 10:57:07,158 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 11:00:03,574 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:00:03,583 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:00:30,103 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 11:04:34,444 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:04:34,445 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 11:05:10,167 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 11:14:02,085 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:14:02,094 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:14:28,713 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 11:16:32,458 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:16:32,459 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 11:16:39,888 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:16:39,892 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:17:02,512 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 11:19:48,842 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:19:48,847 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:20:16,088 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 11:21:46,461 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:21:46,467 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:22:07,825 [ERROR]: Erro ao criar registro: 11 values for 12 columns
+2023-11-21 11:25:43,559 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:25:43,563 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:29:00,470 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 11:32:27,841 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:32:27,847 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:32:56,608 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 11:34:13,626 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 11:53:13,808 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:53:13,819 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:53:47,803 [ERROR]: Erro ao criar registro: 13 values for 12 columns
+2023-11-21 11:55:07,388 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:55:07,389 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 11:55:14,304 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:55:14,309 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:55:44,955 [ERROR]: Erro ao criar registro: 14 values for 12 columns
+2023-11-21 11:56:21,457 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:56:21,462 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:56:58,027 [ERROR]: Erro ao criar registro: 16 values for 12 columns
+2023-11-21 11:58:54,359 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 11:58:54,363 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 11:59:19,658 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 12:00:42,627 [ERROR]: Erro ao atualizar registro: near "WHERE": syntax error
+2023-11-21 12:05:36,182 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 12:05:36,183 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 12:06:14,089 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 12:08:41,638 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 12:08:41,639 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 12:09:21,761 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-21 15:57:04,338 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 15:57:04,355 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 15:58:17,889 [ERROR]: Erro ao criar registro: 14 values for 13 columns
+2023-11-21 16:00:47,816 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:00:47,817 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 16:01:42,641 [ERROR]: Erro ao criar registro: 14 values for 13 columns
+2023-11-21 16:03:06,391 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:03:06,398 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:04:11,168 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 16:08:46,145 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:08:46,150 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:11:12,988 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:11:12,989 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 16:11:54,057 [WARNING]: Tentativa de criar registro com CPF duplicado: 12919879677
+2023-11-21 16:12:11,668 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:12:11,673 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:15:52,345 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:15:52,349 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:17:44,316 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:17:44,320 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:18:18,358 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 16:24:25,026 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:24:25,032 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:25:01,034 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:25:01,035 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 16:26:35,270 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:26:35,276 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:49:57,969 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:49:57,974 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-21 16:50:33,493 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-21 16:58:43,408 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 16:58:43,409 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 17:03:44,755 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 17:03:44,755 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 17:53:44,920 [INFO]: Registro criado com sucesso. CPF: 22108224831
+2023-11-21 17:54:37,678 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 17:54:37,678 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 17:55:39,815 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-21 17:57:10,179 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 17:57:10,180 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 17:58:07,903 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-21 17:59:25,609 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 17:59:25,609 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 18:00:03,502 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-21 18:21:18,498 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-21 18:21:18,498 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-21 18:22:07,188 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-22 09:03:14,688 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 09:03:14,700 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 09:03:54,926 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-22 09:06:11,430 [INFO]: Registro atualizado com sucesso. ID: 1
+2023-11-22 09:38:15,307 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 09:38:15,313 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 10:00:07,207 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 10:00:07,211 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 10:01:05,879 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-22 10:14:34,372 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 10:14:34,373 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-22 10:23:15,697 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 10:23:15,701 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 10:25:18,288 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 10:25:18,293 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 10:26:36,908 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 10:26:36,913 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 11:11:24,783 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 11:11:24,793 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 11:11:52,511 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-22 15:59:52,764 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 15:59:52,773 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 16:00:35,101 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-22 16:15:50,879 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 16:15:50,888 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 16:17:44,990 [INFO]: Registro criado com sucesso. CPF: 12919879677
+2023-11-22 16:21:38,230 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-22 16:21:38,236 [INFO]: Setup do banco de dados executado com sucesso.
+2023-11-22 16:23:41,428 [INFO]: Registro criado com sucesso. CPF: 12473578990
+2023-11-24 11:57:03,641 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 11:57:03,649 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 12:02:58,484 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 12:02:58,485 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 12:09:28,176 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 12:09:28,177 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 12:10:49,554 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 12:10:49,555 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 13:23:34,778 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 13:23:34,779 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 13:41:56,003 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 13:41:56,004 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 13:45:05,095 [INFO]: Registro criado com sucesso. CPF: 37707534298
+2023-11-24 13:53:15,790 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 13:53:15,791 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 14:03:00,367 [INFO]: Registro criado com sucesso. CPF: 24169466179
+2023-11-24 14:10:55,655 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 14:10:55,656 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 14:16:31,907 [INFO]: Registro criado com sucesso. CPF: 23417814383
+2023-11-24 14:20:03,029 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 14:20:03,030 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 14:33:18,039 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 14:33:18,041 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 14:36:26,169 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 14:36:26,169 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 14:39:05,048 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 14:39:05,049 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 14:42:43,952 [INFO]: Registro criado com sucesso. CPF: 69827123114
+2023-11-24 14:45:12,048 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-24 14:45:25,751 [INFO]: Registro excluído com sucesso. ID: 1
+2023-11-24 14:50:53,391 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 14:50:53,392 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 14:56:29,713 [INFO]: Registro criado com sucesso. CPF: 16786796230
+2023-11-24 14:58:53,837 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-24 15:04:03,625 [INFO]: Conexão com o banco de dados estabelecida.
+2023-11-24 15:04:03,626 [INFO]: A tabela cadastro já existe. Setup do banco de dados ignorado.
+2023-11-24 15:07:41,902 [INFO]: Registro criado com sucesso. CPF: 39162723731
+2023-11-24 15:09:59,825 [INFO]: Registro atualizado com sucesso. ID: 2
+2023-11-24 15:10:27,477 [INFO]: Registro excluído com sucesso. ID: 2
